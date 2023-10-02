@@ -22,7 +22,7 @@ git clone https://github.com/luisGust4vo/backend-onfly.git
 2.Acesse o diretório do projeto: cd backend-onfly.
 
 3.Instale as dependências do Composer:composer install.
-
+O aplicativo estará disponível em http://localhost:8080.
 Crie um arquivo .env a partir do arquivo .env.example e configure suas variáveis de ambiente.
 Execute as migrações do banco de dados: php artisan migrate.
 Inicie o servidor de desenvolvimento: php artisan serve.
